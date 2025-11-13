@@ -38,46 +38,6 @@ This project demonstrates modern web development practices with a focus on:
 
 **Dependencies**: Arrow, BeautifulSoup4, Markdown, pytest, requests, and more
 
-## Quick Start
-
-### Prerequisites
-- Node.js >= 22.0.0
-- Python >= 3.12
-- npm
-
-### Installation
-
-```bash
-# Install frontend dependencies
-npm install
-
-# Install backend dependencies
-pip install -r requirements.txt
-```
-
-### Running the Application
-
-```bash
-# Build frontend (webpack)
-npm run build
-
-# Start backend server (Flask)
-flask run
-
-# In another terminal, run tests
-npm run test
-```
-
-### Running Tests
-
-```bash
-# Unit and integration tests
-npm run test
-
-# Cypress E2E tests
-npm run cypress:open
-```
-
 ## Project Structure
 
 ```
